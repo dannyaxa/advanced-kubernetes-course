@@ -1,3 +1,6 @@
+python-jose
+flask
 python-dotenv
 requests
-python-jose
+flask-oauthlib
+six

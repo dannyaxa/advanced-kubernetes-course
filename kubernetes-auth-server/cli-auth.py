@@ -1,5 +1,3 @@
-#!/usr/bin/python3
-
 from os import environ as env
 from dotenv import load_dotenv, find_dotenv
 from jose import jwt
